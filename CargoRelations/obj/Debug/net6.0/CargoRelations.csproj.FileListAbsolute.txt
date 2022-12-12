@@ -1,0 +1,15 @@
+C:\C#\Console\CargoRelations\CargoRelations\bin\Debug\net6.0\CargoRelations.exe
+C:\C#\Console\CargoRelations\CargoRelations\bin\Debug\net6.0\CargoRelations.deps.json
+C:\C#\Console\CargoRelations\CargoRelations\bin\Debug\net6.0\CargoRelations.runtimeconfig.json
+C:\C#\Console\CargoRelations\CargoRelations\bin\Debug\net6.0\CargoRelations.dll
+C:\C#\Console\CargoRelations\CargoRelations\bin\Debug\net6.0\CargoRelations.pdb
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.csproj.AssemblyReference.cache
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.AssemblyInfoInputs.cache
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.AssemblyInfo.cs
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.csproj.CoreCompileInputs.cache
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.dll
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\refint\CargoRelations.dll
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.pdb
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\CargoRelations.genruntimeconfig.cache
+C:\C#\Console\CargoRelations\CargoRelations\obj\Debug\net6.0\ref\CargoRelations.dll
